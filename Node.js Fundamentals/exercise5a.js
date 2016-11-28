@@ -5,12 +5,10 @@ console.log('Starting...');
 
 const fs = require('fs');
 const os = require('os');
-//var user = os.userInfo();
 
 // const that stores the location where the other file will be required:
 const notes = require('./exercise5b.js');
 
-//
 var res = notes.addNote();
 console.log(res);
 

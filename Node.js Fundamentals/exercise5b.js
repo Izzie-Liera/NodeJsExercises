@@ -1,5 +1,5 @@
 // Exercise #5b
-// This exercise will execute
+// This exercise will be executed by exercise5a.js. 
 
 console.log(module);
 
